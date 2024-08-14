@@ -1,2 +1,3 @@
 # Git_Capstone_Repository_Collaborative
 Git_Capstone_Repository_Collaborative For Collaborative Work
+Changes Made in Remote Repository
